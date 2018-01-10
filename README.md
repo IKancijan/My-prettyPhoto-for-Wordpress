@@ -1,0 +1,1 @@
+# My prettyPhoto for Wordpress
